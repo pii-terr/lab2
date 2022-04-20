@@ -1,0 +1,2 @@
+el archivo p2.py funciona para la pagina uno "pizzahut.cl" se cumplen todos los requisitos,
+es necesario ejecutar el archivo dos veces la primera genera el usuario y la segunda vez inicia sesion y cambia contraseña, es importante decir que el mail es generado por yopmail asi que es necesario genera e introducir primero un mail en el codigo y reemplazar el mail existente  
